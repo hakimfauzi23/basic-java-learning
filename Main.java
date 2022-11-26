@@ -3,7 +3,7 @@ public class Main {
     /*
      
         Run javac to create Bin File
-        Run Bin file to run program with java <filename>
+        Run java <filename>  to run Bin file 
 
      */
     public static void main(String[] args) {
